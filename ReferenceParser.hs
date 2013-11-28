@@ -1,4 +1,4 @@
-module ReferenceParser (parse) where
+module ReferenceParser where
 
   import Text.XML.HXT.Core hiding (attr)
   import Control.Lens
