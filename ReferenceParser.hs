@@ -588,4 +588,4 @@ makeLenses ''Oper
 makeLenses ''Groups
 makeLenses ''Flags
 makeLenses ''Note
-  makeLenses ''Brief
+makeLenses ''Brief
