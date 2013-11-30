@@ -12,7 +12,7 @@ data Reference = Reference
   , _ringNotes :: RingNotes
   } deriving (Show, Eq)
 
-type Version  = String
+type Version = String
 
 type OneByte = OpList
 
