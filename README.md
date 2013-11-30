@@ -130,7 +130,6 @@ type EProcStartT = Maybe Integer
 type EPost       = Maybe String
 type ElatStep    = Maybe String
 
-
 data EProcEnd = EProcEnd
   { _pe :: EProcEndT
   } deriving (Show, Eq)
@@ -178,7 +177,6 @@ type Ot        = Maybe String
 type OperT     = Maybe String
 
 type SMod = Maybe String
-
 
 data Groups = Groups
   { _iext  :: Iext
