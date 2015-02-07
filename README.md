@@ -263,3 +263,7 @@ makeLenses ''Note
 makeLenses ''Brief
 
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sheganinans/x86-reference/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
